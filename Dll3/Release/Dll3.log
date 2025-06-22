@@ -1,0 +1,9 @@
+﻿  dllmain.cpp
+     Creando biblioteca E:\DLLS\Dll1\Release\HelperLogin.lib y objeto E:\DLLS\Dll1\Release\HelperLogin.exp
+  Generando código
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 381 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Generación de código finalizada
+detours.lib(detours.obj) : warning LNK4099: no se encontró PDB '' con 'detours.lib(detours.obj)' o en ''; se vinculará el objeto sin tener en cuenta información de depuración
+detours.lib(disasm.obj) : warning LNK4099: no se encontró PDB '' con 'detours.lib(disasm.obj)' o en ''; se vinculará el objeto sin tener en cuenta información de depuración
+  Dll3.vcxproj -> E:\DLLS\Dll1\Release\HelperLogin.dll
